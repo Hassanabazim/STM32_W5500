@@ -1,0 +1,14 @@
+*.bin 
+*.elf
+*.hex
+*.mk
+*.list
+*.d
+*.map
+*.o
+*.su
+*.lss
+test-result*.xml
+makefile
+
+/Debug/
